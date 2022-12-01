@@ -18,7 +18,7 @@ body {
 
 .container {
   margin: auto;
-  border: 2px solid red;
+
   position: relative;
 }
 .container header {
